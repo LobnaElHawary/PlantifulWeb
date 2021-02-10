@@ -11285,9 +11285,11 @@ a:focus {
 }
 
 .bg-password-image {
-	background: url("https://source.unsplash.com/oWTW-jNGl9I/600x800");
+	background: url(../img/logo.png);
 	background-position: center;
-	background-size: cover;
+	background-repeat: no-repeat;
+	width: 50%;
+	height: auto;
 }
 
 form.user .custom-checkbox.small label {
