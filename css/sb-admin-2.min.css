@@ -9887,18 +9887,14 @@ a:focus {
   height: auto;
 }
 .bg-register-image {
-  background: url(../img/logo.png);
+  background: url(https://source.unsplash.com/Mv9hjnEUHR4/600x800);
   background-position: center;
-  background-repeat: no-repeat;
-  width: 50%;
-  height: auto;
+  background-size: cover;
 }
 .bg-password-image {
-  background: url(../img/logo.png);
+  background: url(https://source.unsplash.com/oWTW-jNGl9I/600x800);
   background-position: center;
-  background-repeat: no-repeat;
-  width: 50%;
-  height: auto;
+  background-size: cover;
 }
 form.user .custom-checkbox.small label {
   line-height: 1.5rem;
